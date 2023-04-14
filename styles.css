@@ -1,14 +1,14 @@
 /*  your css code here. If applicable */
 
-#f{
+#yellow{
 	background-color:yellow;
 	border:1px solid green;
 }
-#s{
+#red{
 	background-color:red;
 	border:1px solid black;
 }
-#t{
+#green{
 	background-color:green;
 	border:1px solid yellow;
 }
